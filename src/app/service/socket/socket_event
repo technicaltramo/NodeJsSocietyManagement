@@ -1,0 +1,9 @@
+module.exports = {
+    CONNECTION: "connection",
+    DISCONNECT: "disconnect",
+    ONLINE_USER: "online_users",
+    SEND_MESSAGE: "send_message",
+    RECEIVE_MESSAGE: "receive_message",
+    CHAT: "chat",
+    TYPING: 'typing',
+}

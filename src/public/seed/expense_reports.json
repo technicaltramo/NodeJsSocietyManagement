@@ -1,0 +1,5510 @@
+[
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "1",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "expenseId": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "expenseId": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "expenseId": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "expenseId": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "expenseId": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "expenseId": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "expenseId": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "2",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "3",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "4",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "5",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "6",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "7",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "8",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "9",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "10",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "11",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  },
+  {
+    "adminId": "60278cd3c1a1feda80c8e110",
+    "month": "12",
+    "year": "2020",
+    "status": "2",
+    "expenses": [
+      {
+        "id": "60278cd3c1a1feda80c8d301",
+        "name": "Sewage Charge",
+        "description": "sewage charge",
+        "amount": 100000,
+        "type": "yearly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d302",
+        "name": "Cleaning Charge",
+        "description": "cleaning charge",
+        "amount": 50000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d303",
+        "name": "Security Fees",
+        "description": "security fees",
+        "amount": 48000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d304",
+        "name": "Misc Charge",
+        "description": "misc charge",
+        "amount": 10000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d305",
+        "name": "Celebration Charge",
+        "description": "celebration charge",
+        "amount": 100000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d306",
+        "name": "Garbage Charge",
+        "description": "garbage charge",
+        "amount": 32000,
+        "type": "monthly"
+      },
+      {
+        "id": "60278cd3c1a1feda80c8d307",
+        "name": "Gardener Fees",
+        "description": "gardener fees",
+        "amount": 45000,
+        "type": "monthly"
+      }
+    ],
+    "paymentInfo": [
+      {
+        "userId": "60278cd3c1a1feda80c8e111",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 0
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e112",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e113",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e114",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e115",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e116",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e117",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e118",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e119",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e120",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e121",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e122",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e123",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e124",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e125",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e126",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e127",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e128",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e129",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e130",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e131",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e132",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e133",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e134",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e135",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e136",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e137",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e138",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e139",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e140",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e141",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e142",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e143",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e144",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e145",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e146",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e147",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e148",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e149",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e150",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e151",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e152",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e153",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e154",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e155",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e156",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e157",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e158",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e159",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e160",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e161",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e162",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e163",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e164",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e165",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e166",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e167",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e168",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e169",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e170",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e171",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e172",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e173",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e174",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e175",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e176",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e177",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e178",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e179",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e180",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e181",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e182",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e183",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e184",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e185",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e186",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e187",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e188",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e189",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      },
+      {
+        "userId": "60278cd3c1a1feda80c8e190",
+        "paymentAt": "2021-02-13T10:56:47.277Z",
+        "paymentStatus": 1
+      }
+    ]
+  }
+]

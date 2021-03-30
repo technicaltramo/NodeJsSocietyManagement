@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "60278cd3c1a1feda80c8d301",
+    "name": "Sewage Charge",
+    "description": "sewage charge ",
+    "amount": "100000",
+    "type": "yearly",
+    "isSelectedForCurrentMonth": "true"
+  },
+  {
+    "_id": "60278cd3c1a1feda80c8d302",
+    "name": "Cleaning Charge",
+    "description": "cleaning charge",
+    "amount": "50000",
+    "type": "monthly",
+    "isSelectedForCurrentMonth": "true"
+  },
+  {
+    "_id": "60278cd3c1a1feda80c8d303",
+    "name": "Security Fees",
+    "description": "security fees",
+    "amount": "48000",
+    "type": "monthly",
+    "isSelectedForCurrentMonth": "true"
+  },
+  {
+    "_id": "60278cd3c1a1feda80c8d304",
+    "name": "Misc Charge",
+    "description": "misc charge",
+    "amount": "10000",
+    "type": "monthly",
+    "isSelectedForCurrentMonth": "true"
+  },
+  {
+    "_id": "60278cd3c1a1feda80c8d305",
+    "name": "Celebration Charge",
+    "description": "celebration charge",
+    "amount": "100000",
+    "type": "monthly",
+    "isSelectedForCurrentMonth": "true"
+  },
+  {
+    "_id": "60278cd3c1a1feda80c8d306",
+    "name": "Garbage Charge",
+    "description": "garbage charge",
+    "amount": "32000",
+    "type": "monthly",
+    "isSelectedForCurrentMonth": "true"
+  },
+  {
+    "_id": "60278cd3c1a1feda80c8d307",
+    "name": "Gardener Fees",
+    "description": "gardener fees",
+    "amount": "45000",
+    "type": "monthly",
+    "isSelectedForCurrentMonth": "true"
+  }
+]

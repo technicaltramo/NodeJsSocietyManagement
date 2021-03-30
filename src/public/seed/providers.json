@@ -1,0 +1,772 @@
+[
+  {
+    "providerKey": "TR21",
+    "serviceType": "POSTPAID",
+    "providerName": "AIRTEL POSTPAID"
+  },
+  {
+    "providerKey": "TR22",
+    "serviceType": "POSTPAID",
+    "providerName": "BSNL POSTPAID"
+  },
+  {
+    "providerKey": "TR23",
+    "serviceType": "POSTPAID",
+    "providerName": "IDEA POSTPAID"
+  },
+  {
+    "providerKey": "TR29",
+    "serviceType": "POSTPAID",
+    "providerName": "VODAFONE POSTPAID"
+  },
+  {
+    "providerKey": "TR165",
+    "serviceType": "WATER",
+    "providerName": "Delhi Jal Board"
+  },
+  {
+    "providerKey": "TR166",
+    "serviceType": "WATER",
+    "providerName": "Municipal Corporation of Gurugram-Retail"
+  },
+  {
+    "providerKey": "TR167",
+    "serviceType": "WATER",
+    "providerName": "UIT Bhiwadi"
+  },
+  {
+    "providerKey": "TR168",
+    "serviceType": "WATER",
+    "providerName": "Uttarakhand Jal Sansthan(B2B)-Retail"
+  },
+  {
+    "providerKey": "TR195",
+    "serviceType": "WATER",
+    "providerName": "Delhi Development Authority (DDA) - Water"
+  },
+  {
+    "providerKey": "TR196",
+    "serviceType": "WATER",
+    "providerName": "Bhopal Municipal Corporation - Water"
+  },
+  {
+    "providerKey": "TR197",
+    "serviceType": "WATER",
+    "providerName": "Surat Municipal Corporation - Water"
+  },
+  {
+    "providerKey": "TR198",
+    "serviceType": "WATER",
+    "providerName": "Indore Municipal Corporation - Water"
+  },
+  {
+    "providerKey": "TR212",
+    "serviceType": "WATER",
+    "providerName": "Greater Warangal Municipal Corporation - Water"
+  },
+  {
+    "providerKey": "TR213",
+    "serviceType": "WATER",
+    "providerName": "Hyderabad Metropolitan Water Supply and Sewerage Board"
+  },
+  {
+    "providerKey": "TR214",
+    "serviceType": "WATER",
+    "providerName": "Municipal Corporation of Amritsar"
+  },
+  {
+    "providerKey": "TR215",
+    "serviceType": "WATER",
+    "providerName": "Ranchi Municipal Corporation"
+  },
+  {
+    "providerKey": "TR216",
+    "serviceType": "WATER",
+    "providerName": "Silvassa Municipal Council"
+  },
+  {
+    "providerKey": "TR217",
+    "serviceType": "WATER",
+    "providerName": "Ujjain Nagar Nigam - PHED"
+  },
+  {
+    "providerKey": "TR28",
+    "serviceType": "BROADBAND",
+    "providerName": "TIKONA Broadband"
+  },
+  {
+    "providerKey": "TR38",
+    "serviceType": "BROADBAND",
+    "providerName": "Connect Broadband-Retail"
+  },
+  {
+    "providerKey": "TR178",
+    "serviceType": "BROADBAND",
+    "providerName": "Connect Broadband-Online"
+  },
+  {
+    "providerKey": "TR179",
+    "serviceType": "BROADBAND",
+    "providerName": "Hathway Broadband - Retail"
+  },
+  {
+    "providerKey": "TR180",
+    "serviceType": "BROADBAND",
+    "providerName": "Hathway Broadband - Online"
+  },
+  {
+    "providerKey": "TR36",
+    "serviceType": "LANDLINE",
+    "providerName": "AIRTEL LANDLINE"
+  },
+  {
+    "providerKey": "TR37",
+    "serviceType": "LANDLINE",
+    "providerName": "BSNL Landline-Online"
+  },
+  {
+    "providerKey": "TR39",
+    "serviceType": "LANDLINE",
+    "providerName": "MTNL Delhi Landline-Retail"
+  },
+  {
+    "providerKey": "TR40",
+    "serviceType": "LANDLINE",
+    "providerName": "MTNL Mumbai Landline-Retail"
+  },
+  {
+    "providerKey": "TR193",
+    "serviceType": "LANDLINE",
+    "providerName": "BSNL Landline-Retail"
+  },
+  {
+    "providerKey": "TR194",
+    "serviceType": "LANDLINE",
+    "providerName": "MTNL Delhi Landline-Online"
+  },
+  {
+    "providerKey": "TR103",
+    "serviceType": "GAS",
+    "providerName": "ADANI GAS"
+  },
+  {
+    "providerKey": "TR104",
+    "serviceType": "GAS",
+    "providerName": "Gujarat Gas company Limited"
+  },
+  {
+    "providerKey": "TR105",
+    "serviceType": "GAS",
+    "providerName": "Haryana City gas"
+  },
+  {
+    "providerKey": "TR106",
+    "serviceType": "GAS",
+    "providerName": "IGL (Indraprasth Gas Limited)"
+  },
+  {
+    "providerKey": "TR107",
+    "serviceType": "GAS",
+    "providerName": "MAHANAGAR GAS LIMITED"
+  },
+  {
+    "providerKey": "TR108",
+    "serviceType": "GAS",
+    "providerName": "Sabarmati Gas Limited (SGL)"
+  },
+  {
+    "providerKey": "TR109",
+    "serviceType": "GAS",
+    "providerName": " Siti Gas UP"
+  },
+  {
+    "providerKey": "TR110",
+    "serviceType": "GAS",
+    "providerName": "Tripura Natural Gas Company Ltd"
+  },
+  {
+    "providerKey": "TR117",
+    "serviceType": "GAS",
+    "providerName": "Unique Central Piped Gases Pvt Ltd (UCPGPL)"
+  },
+  {
+    "providerKey": "TR199",
+    "serviceType": "GAS",
+    "providerName": "Vadodara Gas Limited"
+  },
+  {
+    "providerKey": "TR218",
+    "serviceType": "GAS",
+    "providerName": "Central UP Gas"
+  },
+  {
+    "providerKey": "TR219",
+    "serviceType": "GAS",
+    "providerName": "Charotar Gas Sahakari Mandali Limited"
+  },
+  {
+    "providerKey": "TR221",
+    "serviceType": "GAS",
+    "providerName": "Indian Oil Adani Gas Pvt Ltd"
+  },
+  {
+    "providerKey": "TR222",
+    "serviceType": "GAS",
+    "providerName": "IRM Energy Private Limited"
+  },
+  {
+    "providerKey": "TR127",
+    "serviceType": "INSURANCE",
+    "providerName": "Bajaj Allianz Life Insurance"
+  },
+  {
+    "providerKey": "TR128",
+    "serviceType": "INSURANCE",
+    "providerName": "Bharti Axa Life Insurance"
+  },
+  {
+    "providerKey": "TR131",
+    "serviceType": "INSURANCE",
+    "providerName": " HDFC Life Insurance"
+  },
+  {
+    "providerKey": "TR134",
+    "serviceType": "INSURANCE",
+    "providerName": "Max Life Insurance"
+  },
+  {
+    "providerKey": "TR137",
+    "serviceType": "INSURANCE",
+    "providerName": "Reliance Nippon Life Insurance"
+  },
+  {
+    "providerKey": "TR139",
+    "serviceType": "INSURANCE",
+    "providerName": "Star Union Dai Ichi Life Insurance"
+  },
+  {
+    "providerKey": "TR140",
+    "serviceType": "INSURANCE",
+    "providerName": "Tata AIA Life Insurance"
+  },
+  {
+    "providerKey": "TR150",
+    "serviceType": "INSURANCE",
+    "providerName": "Canara HSBC OBC Life Insurance"
+  },
+  {
+    "providerKey": "TR152",
+    "serviceType": "INSURANCE",
+    "providerName": "PNB MetLife Insurance"
+  },
+  {
+    "providerKey": "TR200",
+    "serviceType": "INSURANCE",
+    "providerName": "ICICI Pru Life"
+  },
+  {
+    "providerKey": "TR201",
+    "serviceType": "INSURANCE",
+    "providerName": "INDIA FIRST Life Insurance"
+  },
+  {
+    "providerKey": "TR240",
+    "serviceType": "INSURANCE",
+    "providerName": "Life Insurance Corporation of India (LIC)"
+  },
+  {
+    "providerKey": "TR247",
+    "serviceType": "INSURANCE",
+    "providerName": "Aditya Birla Sun Life Insurance"
+  },
+  {
+    "providerKey": "TR248",
+    "serviceType": "INSURANCE",
+    "providerName": "Aviva Life"
+  },
+  {
+    "providerKey": "TR249",
+    "serviceType": "INSURANCE",
+    "providerName": " Edelweiss Tokio Life Insurance"
+  },
+  {
+    "providerKey": "TR250",
+    "serviceType": "INSURANCE",
+    "providerName": "Exide Life Insurance"
+  },
+  {
+    "providerKey": "TR251",
+    "serviceType": "INSURANCE",
+    "providerName": " Future Generali India Life Insurance Company Limited"
+  },
+  {
+    "providerKey": "TR252",
+    "serviceType": "INSURANCE",
+    "providerName": "IDBI Federal Life Insurance"
+  },
+  {
+    "providerKey": "TR253",
+    "serviceType": "INSURANCE",
+    "providerName": " Pramerica Life Insurance"
+  },
+  {
+    "providerKey": "TR254",
+    "serviceType": "INSURANCE",
+    "providerName": "SBI Life Insurance"
+  },
+  {
+    "providerKey": "TR255",
+    "serviceType": "INSURANCE",
+    "providerName": "Shriram Life Insurance Co Ltd"
+  },
+  {
+    "providerKey": "TR42",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Ajmer Vidyut Vitran Nigam Ltd. (AVVNL)",
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "providerKey": "TR43",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Assam Power Distribution Company Ltd (APDCL)- RAPDR",
+    "stateName": "ASSAM"
+  },
+  {
+    "providerKey": "TR44",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Bangalore Electricity Supply Company Ltd. (BESCOM)",
+    "stateName": "KARNATAKA"
+  },
+  {
+    "providerKey": "TR47",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Bharatpur Electricity Services Ltd. (BESL)",
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "providerKey": "TR48",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Bikaner Electricity Supply Limited (BKESL)",
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "providerKey": "TR49",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Brihan Mumbai Electric Supply and Transport Undertaking (BEST)",
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "providerKey": "TR50",
+    "serviceType": "ELECTRICITY",
+    "providerName": "BSES Rajdhani Power Limited",
+    "stateName": "DELHI"
+  },
+  {
+    "providerKey": "TR51",
+    "serviceType": "ELECTRICITY",
+    "providerName": "BSES Yamuna Power Limited",
+    "stateName": "DELHI"
+  },
+  {
+    "providerKey": "TR52",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Calcutta Electricity Supply Ltd (CESC LTD)",
+    "stateName": "WEST BENGAL"
+  },
+  {
+    "providerKey": "TR53",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Chhattisgarh State Power Distribution Company Ltd. (CSPDCL)",
+    "stateName": "CHHATTISGARH"
+  },
+  {
+    "providerKey": "TR54",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Dakshin Gujarat Vij Company Limited (DGVCL)",
+    "stateName": "GUJARAT"
+  },
+  {
+    "providerKey": "TR55",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Dakshin Haryana Bijli Vitran Nigam Limited (DHBVNL)",
+    "stateName": "HARYANA"
+  },
+  {
+    "providerKey": "TR56",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Daman and Diu Electricity",
+    "stateName": "DAMAN AND DIU"
+  },
+  {
+    "providerKey": "TR57",
+    "serviceType": "ELECTRICITY",
+    "providerName": "DNH Power Distribution Company Limited",
+    "stateName": "DADRA AND NAGAR HAVELI"
+  },
+  {
+    "providerKey": "TR58",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Eastern Power Distribution Co. Ltd (APEPDCL)",
+    "stateName": "ANDHRA PRADESH"
+  },
+  {
+    "providerKey": "TR59",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Gulbarga Electricity Supply Company Limited (GESCOM)",
+    "stateName": "KARNATAKA"
+  },
+  {
+    "providerKey": "TR60",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Hubli Electricity Supply Company Ltd. (HESCOM)",
+    "stateName": "KARNATAKA"
+  },
+  {
+    "providerKey": "TR64",
+    "serviceType": "ELECTRICITY",
+    "providerName": "JUSCO - JAMSHEDPUR",
+    "stateName": "JHARKHAND"
+  },
+  {
+    "providerKey": "TR65",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Jodhpur Vidyut Vitran Nigam Ltd. (JDVVNL)",
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "providerKey": "TR67",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Kota Electricity Distribution Ltd. (KEDL)",
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "providerKey": "TR68",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Madhya Gujarat Vij Company Limited (MGVCL)",
+    "stateName": "GUJARAT"
+  },
+  {
+    "providerKey": "TR69",
+    "serviceType": "ELECTRICITY",
+    "providerName": "M.P. Paschim Kshetra Vidyut Vitaran",
+    "stateName": "MADHYA PRADESH"
+  },
+  {
+    "providerKey": "TR70",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Mangalore Electricity Supply Company Ltd. (MESCOM)",
+    "stateName": "KARNATAKA"
+  },
+  {
+    "providerKey": "TR72",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Meghalaya Power Distribution Corporati on Ltd",
+    "stateName": "MEGHALAYA"
+  },
+  {
+    "providerKey": "TR73",
+    "serviceType": "ELECTRICITY",
+    "providerName": "M.P. Madhya Kshetra Vidyut Vitaran - Flat Rate Agriculture Bill",
+    "stateName": "MADHYA PRADESH"
+  },
+  {
+    "providerKey": "TR74",
+    "serviceType": "ELECTRICITY",
+    "providerName": "M.P. Poorv Kshetra Vidyut Vitaran - RURAL",
+    "stateName": "MADHYA PRADESH"
+  },
+  {
+    "providerKey": "TR77",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Noida Power Company Limited (NPCL)",
+    "stateName": "UTTAR PRADESH"
+  },
+  {
+    "providerKey": "TR78",
+    "serviceType": "ELECTRICITY",
+    "providerName": "North Bihar Power Distribution Company Ltd. (NBPDCL)",
+    "stateName": "BIHAR"
+  },
+  {
+    "providerKey": "TR79",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Tata Power - Delhi / North Delhi Power Limited (NDPL)",
+    "stateName": "DELHI"
+  },
+  {
+    "providerKey": "TR80",
+    "serviceType": "ELECTRICITY",
+    "providerName": "North Eastern Electricity Supply Company of Odisha Limited (NESCO)",
+    "stateName": "ODISHA"
+  },
+  {
+    "providerKey": "TR83",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Paschim Gujarat Vij Company Limited (PGVCL)",
+    "stateName": "GUJARAT"
+  },
+  {
+    "providerKey": "TR84",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Punjab State Power Corporation Limited (PSPCL)",
+    "stateName": "PUNJAB"
+  },
+  {
+    "providerKey": "TR87",
+    "serviceType": "ELECTRICITY",
+    "providerName": "SNDL Nagpur",
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "providerKey": "TR88",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Southern Bihar Power Distribution Company Ltd. (SBPDCL)",
+    "stateName": "BIHAR"
+  },
+  {
+    "providerKey": "TR89",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Southern Electricity Supply Company Of Odisha Limited (SOUTHCO)",
+    "stateName": "ODISHA"
+  },
+  {
+    "providerKey": "TR90",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Southern Power Distribution Co. Ltd (APSPDCL)",
+    "stateName": "ANDHRA PRADESH"
+  },
+  {
+    "providerKey": "TR91",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Tata Power - Mumbai",
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "providerKey": "TR94",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Tripura State Electricity Corporation Ltd",
+    "stateName": "TRIPURA"
+  },
+  {
+    "providerKey": "TR95",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Uttar Gujarat Vij Company Limited (UGVCL)",
+    "stateName": "GUJARAT"
+  },
+  {
+    "providerKey": "TR96",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Uttar Haryana Bijli Vitran Nigam Limited (UHBVNL)",
+    "stateName": "HARYANA"
+  },
+  {
+    "providerKey": "TR97",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Uttar Pradesh Power Corp Ltd (UPPCL) - RURAL",
+    "stateName": "UTTAR PRADESH"
+  },
+  {
+    "providerKey": "TR98",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Uttar Pradesh Power Corporation Ltd. (UPPCL) - URBAN",
+    "stateName": "UTTAR PRADESH"
+  },
+  {
+    "providerKey": "TR99",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Uttarakhand Power Corporation Limited",
+    "stateName": "UTTARAKHAND"
+  },
+  {
+    "providerKey": "TR182",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Assam Power Distribution Company Ltd (APDCL)-NON RAPDR",
+    "stateName": "ASSAM"
+  },
+  {
+    "providerKey": "TR183",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Chamundeshwari Electricity Supply Corporation Limited (CESCOM)",
+    "stateName": "KARNATAKA"
+  },
+  {
+    "providerKey": "TR184",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Jharkhand Bijli Vitran Nigam Limited (JBVNL)",
+    "stateName": "JHARKHAND"
+  },
+  {
+    "providerKey": "TR185",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Adani Electricity Mumbai Limited",
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "providerKey": "TR186",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Torrent Power(MAHARASHTRA) / Torrent Power - Shil, Mumbra ",
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "providerKey": "TR187",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Torrent Power (Agra)",
+    "stateName": "UTTAR PRADESH"
+  },
+  {
+    "providerKey": "TR188",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Torrent Power (Ahmedabad)",
+    "stateName": "GUJARAT"
+  },
+  {
+    "providerKey": "TR189",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Tamil Nadu Electricity Board (TNEB)",
+    "stateName": "TAMIL NADU"
+  },
+  {
+    "providerKey": "TR190",
+    "serviceType": "ELECTRICITY",
+    "providerName": "TP Ajmer Distribution Ltd (TPADL)",
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "providerKey": "TR191",
+    "serviceType": "ELECTRICITY",
+    "providerName": "West Bengal State Electricity Distribution Co. Ltd. (WBSEDCL)",
+    "stateName": "WEST BENGAL"
+  },
+  {
+    "providerKey": "TR192",
+    "serviceType": "ELECTRICITY",
+    "providerName": "M.P. Madhya Kshetra Vidyut Vitaran - URBAN",
+    "stateName": "MADHYA PRADESH"
+  },
+  {
+    "providerKey": "TR203",
+    "serviceType": "ELECTRICITY",
+    "providerName": "M.P. Madhya Kshetra Vidyut Vitaran - RURAL",
+    "stateName": "MADHYA PRADESH"
+  },
+  {
+    "providerKey": "TR204",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Maharashtra State Electricity Distribution Company Ltd (MSEDCL)/Mahavitran",
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "providerKey": "TR205",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Department of Power Nagaland",
+    "stateName": "NAGALAND"
+  },
+  {
+    "providerKey": "TR206",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Sikkim Power - URBAN",
+    "stateName": "SIKKIM"
+  },
+  {
+    "providerKey": "TR207",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Sikkim Power - RURAL",
+    "stateName": "SIKKIM"
+  },
+  {
+    "providerKey": "TR208",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Goa Electricity Department",
+    "stateName": "GOA"
+  },
+  {
+    "providerKey": "TR209",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Kanpur Electricity Supply Company Ltd.",
+    "stateName": "UTTAR PRADESH"
+  },
+  {
+    "providerKey": "TR210",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Kerala State Electricity Board Ltd. (KSEBL)",
+    "stateName": "KERALA"
+  },
+  {
+    "providerKey": "TR228",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Torrent Power (Bhiwandi)",
+    "stateName": "MAHARASHTRA"
+  },
+  {
+    "providerKey": "TR229",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Power And Electricity Department - MIZORAM",
+    "stateName": "MIZORAM"
+  },
+  {
+    "providerKey": "TR230",
+    "serviceType": "ELECTRICITY",
+    "providerName": "New Delhi Municipal Council (NDMC)",
+    "stateName": "DELHI"
+  },
+  {
+    "providerKey": "TR231",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Central Electricity Supply Utility of Orissa Limited (CESU)",
+    "stateName": "ODISHA"
+  },
+  {
+    "providerKey": "TR232",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Jaipur Vidhyut Vitran Nigam Limited (JVVNL)",
+    "stateName": "RAJASTHAN"
+  },
+  {
+    "providerKey": "TR234",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Western Electricity Supply Company of Odisha (WESCO)",
+    "stateName": "ODISHA"
+  },
+  {
+    "providerKey": "TR235",
+    "serviceType": "ELECTRICITY",
+    "providerName": "M.P. Poorv Kshetra Vidyut Vitaran - NGB",
+    "stateName": "MADHYA PRADESH"
+  },
+  {
+    "providerKey": "TR237",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Torrent Power (Surat)",
+    "stateName": "GUJARAT"
+  },
+  {
+    "providerKey": "TR241",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Electricity Department Chandigarh",
+    "stateName": "CHANDIGARH"
+  },
+  {
+    "providerKey": "TR242",
+    "serviceType": "ELECTRICITY",
+    "providerName": "BSES Rajdhani Prepaid",
+    "stateName": "DELHI"
+  },
+  {
+    "providerKey": "TR243",
+    "serviceType": "ELECTRICITY",
+    "providerName": "BSES Yamuna Prepaid",
+    "stateName": "DELHI"
+  },
+  {
+    "providerKey": "TR244",
+    "serviceType": "ELECTRICITY",
+    "providerName": "TP Central Odisha Distribution Limited",
+    "stateName": "ODISHA"
+  },
+  {
+    "providerKey": "TR245",
+    "serviceType": "ELECTRICITY",
+    "providerName": "Government of Puducherry Electricity Department",
+    "stateName": "PUDUCHERRY"
+  }
+]
